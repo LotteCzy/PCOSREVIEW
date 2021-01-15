@@ -41,7 +41,7 @@
 
 - 多道批处理系统
   **多道定义**：内存中同时存在多个相互独立程序。多道技术是共享的基础。
-  <img src="C:\Users\Lotte\Desktop\learn\PCOS\review.assets\image-20210115212507905.png" alt="image-20210115212507905" style="zoom:50%;" />
+  <img src="PCOSREVIEW\review.assets\image-20210115212507905.png" alt="image-20210115212507905" style="zoom:50%;" />
 
   **特征**：
 
