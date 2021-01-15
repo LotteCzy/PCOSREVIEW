@@ -16,7 +16,7 @@
   ① 人工输入方式
   	纸带（卡片）-->输入机-->计算机-->打印结果-->取走纸带
   ② 脱机输入输出方式（off-line I/O）方式
-  	<img src="C:\Users\Lotte\Desktop\learn\PCOS\review.assets\image-20210115211759036.png" alt="image-20210115211759036" style="zoom:50%;" />
+  	<img src=".\review.assets\image-20210115211759036.png" alt="image-20210115211759036" style="zoom:50%;" />
 
   **特点**：用户独占全机、CPU等待人工操作（串行性），联机输入输出方式（输入输出都由主机控制）。
   **问题**：人机矛盾，CPU和I/O设备间不匹配。
@@ -37,7 +37,7 @@
 
   **工作情况**：
 
-  <img src="C:\Users\Lotte\Desktop\learn\PCOS\review.assets\image-20210115212148272.png" alt="image-20210115212148272" style="zoom:50%;" />
+  <img src="review.assets\image-20210115212148272.png" alt="image-20210115212148272" style="zoom:50%;" />
 
 - 多道批处理系统
   **多道定义**：内存中同时存在多个相互独立程序。多道技术是共享的基础。
